@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 int ar[100],i,largest,size,j,temp;
 printf("\n enter the size");
@@ -16,4 +16,5 @@ if(largest<ar[i])
 }
 printf("%d",largest);
 }
+  return 0;
 }
