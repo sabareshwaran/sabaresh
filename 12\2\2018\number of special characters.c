@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<string.h>
+#include<conio.h>
 void main(void)
 {
 char s[200];
