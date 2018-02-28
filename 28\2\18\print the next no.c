@@ -1,10 +1,10 @@
 #include<stdio.h>
-void main()
+int main()
 {
 int a;
 printf("enter the value");
 scanf("%d",&a);
 a=a+1;
 printf("%d",a);
-getch();
+return 0;
 }
