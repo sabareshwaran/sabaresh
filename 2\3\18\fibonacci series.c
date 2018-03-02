@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<string.h>
+#include<conio.h>
 int main()
 {
    int x=1,y=1,z,i,n;
