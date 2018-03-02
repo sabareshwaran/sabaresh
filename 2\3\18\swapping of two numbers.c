@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 	int a,b,temp;
 	printf("enter a two numbers:");
@@ -8,5 +8,5 @@ void main()
 	a=b;
 	b=temp;
 	printf(" AFTER SWAPPING a=%d b=%d",a,b);
-  getch();
+  return 0;
 }
