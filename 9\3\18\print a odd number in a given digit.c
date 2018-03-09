@@ -9,8 +9,8 @@ int main()
  l=strlen(s);
  for(i=0;i<l;i++)
  {
-     if((s[i]%2)!=0)
-     printf("%c ",s[i]);
+ if((s[i]%2)!=0)
+ printf("%c ",s[i]);
  }
   return 0;
 }
