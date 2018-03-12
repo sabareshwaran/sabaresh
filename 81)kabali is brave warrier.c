@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<conio.h>
-int main() 
+void main() 
 {	
 int n1,n2,i;
 for(i=0;i<3;i++)
@@ -15,5 +15,5 @@ else
 printf("%d\n",n2-n1);
 }
 }
-return 0;
+getch;
 }
